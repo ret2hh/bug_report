@@ -1,8 +1,4 @@
-# Storage Unit Rental Management System v1.0 has arbitrary file upload
-
 BUG_Author: bit3hh
-
-Website source address:https://www.sourcecodester.com/php/14932/storage-unit-rental-management-system-using-php-free-source-code.html
 
 Vulnerability url: /storage/classes/Users.php?f=save
 
